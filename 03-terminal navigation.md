@@ -33,7 +33,7 @@ Starting from your home directory, do the following and write down every command
 
 ## Answers
 
-powershell
+```powershell
 cd ~
 mkdir website
 mkdir website/css
@@ -47,3 +47,4 @@ ls -R
 mv index.html home.html
 mv home.html index.html
 code .
+```
